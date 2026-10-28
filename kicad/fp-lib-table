@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name MICIR_cello)(type KiCad)(uri ${KIPRJMOD}/MICIR_cello.pretty)(options "")(descr ""))
+)
